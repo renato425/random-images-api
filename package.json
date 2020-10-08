@@ -1,0 +1,32 @@
+{
+  "name": "random-images-api",
+  "version": "0.0.1",
+  "description": "Gere imagens aleatórias de sites como nekos.life, loveyou, dog.ceo e thecatapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renato425/random-images-api.git"
+  },
+  "keywords": [
+    "api",
+    "dogs",
+    "cats",
+    "neko",
+    "nsfw",
+    "images",
+    "js",
+	"nsfw"
+  ],
+  "author": "Renato",
+  "license": "GNU Affero General Public License v3.0",
+  "bugs": {
+    "url": "https://github.com/renato425/random-images-api/issues"
+  },
+  "homepage": "https://github.com/renato425/random-images-api#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
