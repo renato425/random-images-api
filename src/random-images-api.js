@@ -1,3 +1,7 @@
+/*
+    Agora sim! O Código fonte do módulo!
+    Bom... aqui não tem muita coisa... mas, se quiser olhar ;)
+*/
 const axios = require("axios")
 
 const riapi = {
