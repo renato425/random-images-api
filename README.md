@@ -34,19 +34,19 @@ const riapi = require("random-images-api")
 riapi.nekos("endpoint").then(url => /**seu código**/)
 ```
 EndPoints
-EndPoint | Imagens
----------|---------
-femdom | [Imagem Exemplo](https://cdn.nekos.life/femdom/femdom20.jpg)
-tickle | [Imagem Exemplo](https://cdn.nekos.life/tickle/tickle_015.gif)
-classic | [Imagem Exemplo](https://cdn.nekos.life/classic/classic288.gif)
-ngif | [Imagem Exemplo](https://cdn.nekos.life/ngif/neko_076.gif)
-erofeet | [Imagem Exemplo](https://cdn.nekos.life/erofeet/erofeet56.jpg)
-meow | [Imagem Exemplo](https://cdn.nekos.life/meow/0398A.jpg)
-erok | [Imagem Exemplo](https://cdn.nekos.life/erok/ero_kitsune_017.png)
-poke | [Imagem Exemplo](https://cdn.nekos.life/poke/poke_018.gif)
-les | [Imagem Exemplo](https://cdn.nekos.life/les/OnlyG112.gif)
-hololewd | [Imagem Exemplo](https://cdn.nekos.life/hololewd/lewd_holo_03.jpg)
-lewdk | [Imagem Exemplo](https://cdn.nekos.life/lewdk/lewd_kitsune030.jpg)
-keta | [Imagem Exemplo](https://cdn.nekos.life/keta/ke-ta_181.png)
-feetg | [Imagem Exemplo](https://cdn.nekos.life/feetg/Feet43.gif)
-nsfw_neko_gif | [Imagem Exemplo](https://cdn.nekos.life/nsfw_neko_gif/H_neko03.gif)
+```<'femdom', 'tickle', 'classic', 'ngif', 'erofeet', 'meow', 'erok', 'poke', 'les', 'v3', 'hololewd', 'lewdk', 'keta', 'feetg', 'nsfw_neko_gif', 'eroyuri', 'kiss', '8ball', 'kuni', 'tits', 'pussy_jpg', 'cum_jpg', 'pussy', 'lewdkemo', 'lizard', 'slap', 'lewd', 'cum', 'cuddle', 'spank', 'smallboobs', 'goose', 'Random_hentai_gif', 'avatar', 'fox_girl', 'nsfw_avatar', 'hug', 'gecg', 'boobs', 'pat', 'feet', 'smug', 'kemonomimi', 'solog', 'holo', 'wallpaper', 'bj', 'woof', 'yuri', 'trap', 'anal', 'baka', 'blowjob', 'holoero', 'feed', 'neko', 'gasm', 'hentai', 'futanari', 'ero', 'solo', 'waifu', 'pwankg', 'eron', 'erokemo'>```
+
+LoveYou
+```js
+const riapi = require("random-images-api")
+riapi.loveyou("endpoint").then(url => /**seu código**/)
+```
+EndPoints
+```・boobs         
+・pussy
+・ass
+・missionary
+・cowgirl
+・doggystyle
+・blowjob
+・cumshots```
