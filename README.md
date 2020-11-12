@@ -10,7 +10,7 @@ API mais focada em imagens de neko e nsfw. Mas, também temos imagens de doguinh
 # Exemplos
 Nekos.life
 ```javascript
-const riapi = require("random-images-api")
+const riapi = require("random-image-api")
 
 riapi.nekos("meow").then(url => console.log(url))
 ```
@@ -30,7 +30,7 @@ riapi.cat().then(url => console.log(url))
 # Documentação
 Nekos.life
 ```js
-const riapi = require("random-images-api")
+const riapi = require("random-image-api")
 riapi.nekos("endpoint").then(url => /**seu código**/)
 ```
 EndPoints
@@ -102,7 +102,7 @@ EndPoints
 
 LoveYou
 ```js
-const riapi = require("random-images-api")
+const riapi = require("random-image-api")
 riapi.loveyou("endpoint").then(url => /**seu código**/)
 ```
 EndPoints
@@ -115,5 +115,9 @@ EndPoints
 ・blowjob
 ・cumshots
 ```
+
+# ChangeLogs
+* Corrigindo o bug do `riapi.cat()`. Agora ele está funcionando perfeitamente.
+* Corrigindo também o readme.md que estava desatualizado!
 
 **Estamos aceitando contribuidores para nos dar imagens ou ajudar no código!**

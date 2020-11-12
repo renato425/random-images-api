@@ -1,7 +1,3 @@
-/*
-    Agora sim! O Código fonte do módulo!
-    Bom... aqui não tem muita coisa... mas, se quiser olhar ;)
-*/
 const axios = require("axios")
 
 const riapi = {
@@ -38,8 +34,8 @@ const riapi = {
     },
     async cat() {
         return new Promise(async (resolve, reject) => {
-            await axios.get(`https://api.thecatapi.com/v1/images`).then(function(response) {
-                resolve(response.data.url)
+            await axios.get(`http://aws.random.cat//meow`).then(function(response) {
+                resolve(response.data.file)
             }).catch(err => {
                 return reject(err)
             })

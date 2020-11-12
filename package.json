@@ -1,7 +1,7 @@
 {
-  "name": "random-images-api",
-  "version": "0.0.1",
-  "description": "Gere imagens aleatórias de sites como nekos.life, loveyou, dog.ceo e thecatapi",
+  "name": "random-image-api",
+  "version": "0.0.3",
+  "description": "Gere imagens aleatórias de sites como nekos.life, loveyou, dog.ceo e random.cat",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,7 +18,7 @@
     "nsfw",
     "images",
     "js",
-	"nsfw"
+    "nsfw"
   ],
   "author": "Renato",
   "license": "GNU Affero General Public License v3.0",
