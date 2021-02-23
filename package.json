@@ -1,7 +1,7 @@
 {
   "name": "random-image-api",
-  "version": "0.0.3",
-  "description": "Gere imagens aleatórias de sites como nekos.life, loveyou, dog.ceo e random.cat",
+  "version": "0.0.4-beta",
+  "description": "Gere imagens aleatórias de nekos, nfsw, cachorrinhos e gatinhos! S2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,16 +17,15 @@
     "neko",
     "nsfw",
     "images",
-    "js",
-    "nsfw"
+    "js"
   ],
   "author": "Renato",
-  "license": "GNU Affero General Public License v3.0",
+  "license": "AGPL-3.0",
   "bugs": {
     "url": "https://github.com/renato425/random-images-api/issues"
   },
   "homepage": "https://github.com/renato425/random-images-api#readme",
   "dependencies": {
-    "axios": "^0.20.0"
+    "axios": "^0.21.1"
   }
 }

@@ -1,1 +1,1 @@
-module.exports = require("./src/random-images-api")
+module.exports = require("./src/riapi")

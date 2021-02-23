@@ -117,7 +117,6 @@ EndPoints
 ```
 
 # ChangeLogs
-* Corrigindo o bug do `riapi.cat()`. Agora ele está funcionando perfeitamente.
-* Corrigindo também o readme.md que estava desatualizado!
+* Corrigimos o bug do axios, em que o mesmo não instalava com sucesso.
 
 **Estamos aceitando contribuidores para nos dar imagens ou ajudar no código!**
